@@ -13,6 +13,10 @@ public class Bob {
             int i = 3 + 2;
         }
 
+        if(3 + 9 == 10) {
+            System.out.println("1");
+        } else System.out.println("2");
+
         return new Go();
     }
 }
