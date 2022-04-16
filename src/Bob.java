@@ -7,7 +7,9 @@ public class Bob {
             System.out.println("!!@#");
         } else if(echo instanceof Echo) {
             System.out.println("!@#");
-        } else {
+        } else if(3 +2 > 3) {
+            System.out.println("OMG..");
+        }else {
             int i = 3 + 2;
         }
 
