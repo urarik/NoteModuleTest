@@ -9,4 +9,8 @@ public class Alice implements India{
     public void test1() {
 
     }
+
+    public String testMultipleParameters(String abc, Go go2, Echo echo) {
+        return "ABC";
+    }
 }
